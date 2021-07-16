@@ -12,7 +12,6 @@ https://www.mozilla.org/de/firefox/download/thanks/
 
 - uBlock Origin - https://addons.mozilla.org/en-US/firefox/addon/sponsorblock
 - I don't care about Cookies - https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies
-- SponsorBlock - https://addons.mozilla.org/en-US/firefox/addon/sponsorblock
 - LocalCDN - https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes
 - Privacy Badger - https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17
 - Bitwarden - https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager
@@ -22,6 +21,7 @@ https://www.mozilla.org/de/firefox/download/thanks/
 
 - ClearURLs - https://addons.mozilla.org/en-US/firefox/addon/clearurls
 - Chameleon - https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext
+- SponsorBlock - https://addons.mozilla.org/en-US/firefox/addon/sponsorblock
 
 ## Configuration
 
