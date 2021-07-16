@@ -29,13 +29,13 @@ https://www.mozilla.org/de/firefox/download/thanks/
 
 ##### General / Startup
 
-```bash
+```
 Restore previous session  - false
 ```
 
 ##### General / Firefox Updates
 
-```bash
+```
 Allow Firefox to  - Check for updates but let you choose to install them
 ```
 
@@ -43,7 +43,7 @@ Allow Firefox to  - Check for updates but let you choose to install them
 
 Delete all other search engines
 
-```bash
+```
 DuckDuckGo
 ```
 
@@ -51,29 +51,29 @@ DuckDuckGo
 
 if you have Chameleon, you don't need this
 
-```bash
+```
 Restore previous session  - false
 ```
 
-```bash
+```
 Send websites a “Do Not Track” signal that you don’t want to be tracked - true
 ```
 
 ##### Privacy & Security / Cookies and Site Data
 
-```bash
+```
 Delete cookies and site data when Firefox is closed  - true
 ```
 
 ##### Privacy & Security / Logins and Passwords
 
-```bash
+```
 Ask to save logins and passwords for websites  - false
 ```
 
 ##### Privacy & Security / History
 
-```bash
+```
 Clear history when Firefox closes  - true //optional
 ```
 
