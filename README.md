@@ -16,10 +16,10 @@ https://www.mozilla.org/de/firefox/download/thanks/
 - LocalCDN - https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes
 - Privacy Badger - https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17
 - Bitwarden - https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager
+- Cookie AutoDelete - https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete
 
 ##### 2. Optional Addons
 
-- Cookie AutoDelete - https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete
 - ClearURLs - https://addons.mozilla.org/en-US/firefox/addon/clearurls
 - Chameleon - https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext
 
