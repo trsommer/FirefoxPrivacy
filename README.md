@@ -10,7 +10,7 @@ https://www.mozilla.org/de/firefox/download/thanks/
 
 ##### 1. Needed Addons
 
-- uBlock Origin - https://addons.mozilla.org/en-US/firefox/addon/sponsorblock
+- uBlock Origin - https://addons.mozilla.org/de/firefox/addon/ublock-origin
 - I don't care about Cookies - https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies
 - LocalCDN - https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes
 - Privacy Badger - https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17
